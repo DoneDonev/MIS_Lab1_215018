@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 # Demo of the app
-![App Demo](assets/app_demo_compressed.gif)
+![App Demo](assets/screenshots/app_demo_compressed.gif)
